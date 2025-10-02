@@ -8,6 +8,8 @@ public class LeanService {
 	private int age;
 	
 	private String dep;
+	
+	private String ID;
 
 	public String getName() {
 		return name;
@@ -32,7 +34,13 @@ public class LeanService {
 	public void setDep(String dep) {
 		this.dep = dep;
 	}
-	
-	
+
+	public String getID() {
+		return ID;
+	}
+
+	public void setID(String iD) {
+		ID = iD;
+	}
 
 }
