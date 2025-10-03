@@ -6,7 +6,9 @@ public class LeanMain {
 		
 	System.out.println("Sathish Leena Jagath...");
 	
-	System.out.println("Sathish Leena Jagath...");
+	System.out.println("Sathish Leena Jagath..."); 
+	
+	
 	}
 
 }
