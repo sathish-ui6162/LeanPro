@@ -8,7 +8,6 @@ public class LeanMain {
 		
 		
 		
-		
 		JFrame frame = new JFrame();
 		
 	System.out.println("Sathish Leena Jagath...");
