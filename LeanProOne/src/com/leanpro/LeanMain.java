@@ -15,6 +15,9 @@ public class LeanMain {
 	System.out.println("Sathish Leena Jagath..."); 
 	
 	System.gc();
+	
+	
+	
 	}
 
 }
