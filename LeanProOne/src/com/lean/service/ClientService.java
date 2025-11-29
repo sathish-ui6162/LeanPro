@@ -10,6 +10,8 @@ public class ClientService {
 
 	public void setLevelOne(String levelOne) {
 		this.levelOne = levelOne;
+		
+		System.out.println("SKS");
 	}
 
 }
