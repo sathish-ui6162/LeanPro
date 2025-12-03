@@ -12,6 +12,8 @@ public class ClientService {
 		this.levelOne = levelOne;
 		
 		System.out.println("SKS");
+		
+		
 	}
 
 }
